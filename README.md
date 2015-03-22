@@ -4,7 +4,7 @@ This is a simple android built using parse backend.
 The app contains following features :
   1. Regsiter
   2. Login
-  3. Post a new Tweet
+  3. Post new Tweet
   4. Follow someone to get their tweets on your wall
   5. Unfollow someone.
   6. Logout
