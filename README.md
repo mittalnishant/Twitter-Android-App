@@ -2,7 +2,7 @@
 First Android App using Parse
 This is a simple android built using parse backend.
 The app contains following features :
-  1. Regsiter
+  1. Regsiter User
   2. Login
   3. Post a new Tweet
   4. Follow someone to get their tweets on your wall
